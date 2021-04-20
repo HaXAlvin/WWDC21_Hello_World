@@ -1,0 +1,19 @@
+/*
+See LICENSE folder for this template’s licensing information.
+
+Abstract:
+Contains English localizations of values in Manifest.plist files in the playground book.
+*/
+
+/* The localized name of the playground book. */
+"PlaygroundBookName" = "Hello World";
+
+/* The localized name of the first chapter in the playground book. */
+"ChapterOneName" = "Everyone is friend";
+
+/* The localized name of the first page in the first chapter in the playground book. */
+"ChapterOnePageOneName" = "Wave Hand";
+"ChapterOnePageTwoName" = "Shake Hand";
+"ChapterOnePageThreeName" = "High Five";
+"ChapterOnePageFourName" = "Thumbs up";
+"ChapterOnePageFiveName" = "The End";
