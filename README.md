@@ -1,5 +1,6 @@
 # WWDC21_Hello_World
-My WWDC21 submission
+My WWDC21 submission [Accepted]  
+
 
 這是我在WWDC21 Swift Student Challenge(WWDC21 Swift學生挑戰賽)提交的作品  
 利用ARKit與SpriteKit實現將角色投影在相機畫面裡  
@@ -7,7 +8,11 @@ My WWDC21 submission
 整體作品的主旨在於提倡種族平等、人身而平等的概念  
 透過與角色的各種打招呼方式，希望能讓人們接受並接納他人  
 
-使用方式：
+使用方式：  
+1. 將專案裡Hello World.playgroundbook檔案傳送至iPad
+2. 以Swift Playground APP執行即可  
+
+編譯方式：
 1. 在macOS上使用Xcode打開Template/PlaygroundBook.xcodeproj
 2. Xcode上方Schema選擇PlaygroundBook中的任一iPad型號
 3. Command + B 編譯程式
