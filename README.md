@@ -1,6 +1,6 @@
 # WWDC21_Hello_World
 My WWDC21 submission [Accepted]  
-
+![Screenshot](https://i.imgur.com/cBUmMd8.png)
 
 這是我在WWDC21 Swift Student Challenge(WWDC21 Swift學生挑戰賽)提交的作品  
 利用ARKit與SpriteKit實現將角色投影在相機畫面裡  
